@@ -1,0 +1,42 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.heading {
+    text-align: center;
+    height: 40px;
+}
+
+img {
+    width: 300px;
+    height: 400px;
+}
+
+.price {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.btn1 {
+    padding: 2px;
+    margin-left: 75px;
+}
+
+.btn2 {
+    padding: 2px;
+    margin-left: 10px;
+}
+
+div {
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 0.2cm;
+    box-shadow: 3px 3px 3px 3px rgba(12, 12, 12, 0.778);
+    width: 300px;
+}
+
